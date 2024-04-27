@@ -1,0 +1,47 @@
+<html>
+    <head>
+        <title>Aviasales</title>
+        <link rel="stylrsheet" href="style.css">
+    </head> 
+    <body>
+        <header>
+            <img src="https://ukrvsesvit.com/wp-content/uploads/2021/12/aviasales-yua.png" width="80px" height="45px" class="ilka">
+        
+            <nav>
+                <a href="#main">Головна</a>
+                <a href="#ooo">Про нас</a>
+                <a href="#kop">Зв'язок</a>
+                <a href="#bil">Білети</a>
+                <a href="https://www.aviasales.ua/">Пошук білетів</a>
+          </nav>
+          </header>
+          <main>
+            <h1 id="main">Aviasales</h1>
+            <h2 id="ooo">Про нас</h2>
+            <div class="gpt"><p>Ми не продаємо авіаквитки, а допо-<br>магаємо знайти найдешевші. Безплатно.<br>
+Aviasales — найкращий пошуковик авіакви-<br>тків. Ми порівнюємо всі доступні варіанти <br>перельотів за вашим запитом, а потім<br> направляємо вас для купівлі на офіційні сайти <br>авіакомпаній і агенцій.</p>
+<img src="https://ukrvsesvit.com/wp-content/uploads/2021/12/aviasales-yua.png" width="200px" height="110px"  >
+            </div>
+            <h2 id="bil">Авіаквитки партнерів</h2>
+            <h4>середня ціна</h4>
+            <div class="pro">
+            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASIAAACuCAMAAAClZfCTAAAAElBMVEUAAAD/zgDdAADnAADaAAD/2AAtsSEoAAAA+ElEQVR4nO3QMQGAMAAEsYeCf8tIuI0pkZANAAAAAAAAAAAAAAAAAAAAgB8dwm6CoqQoKUqKkqKkKClKipKipCgpSoqSoqQoKUqKkqKkKClKipKipCgpSoqSoqQoKUqKkqKkKClKipKipCgpSoqSoqQoKUqKkqKkKClKipKipCgpSoqSoqQoKUqKkqKkKClKewh7CbsIipKipCgpSoqSoqQoKUqKkqKkKClKipKipCgpSoqSoqQoKUqKkqKkKClKipKipCgpSoqSoqQoKUqKkqKkKClKipKipCgpSoqSoqQoKUqKkqKkKClKipKipCgpSoqSoqQoKUofMGTNC8HkSxoAAAAASUVORK5CYII=" width="150px" height="100px">
+            <p class="ok">1945грн</p>
+            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAACMCAMAAAAOTxbWAAAAYFBMVEX///+wMT+2QE315Oa6Sla6TFjEZG78+Pj47O368/SzOkfPgYrIbnjTi5PoxMjEZnC+VmLboqjNfYbis7jlur/frbLz3+HMeYLCX2rAXGe9VF/z4OLUjpbv1NfJc33QhY00gV6KAAACeklEQVR4nO3cDXKiQBAFYBpEEIwgKEF3o/e/ZWCzpkhJAgxd9SZd7zvBvGKc3x6DgIiIiIiIiIiIiIhoruhwvG+vcSgSxtft/XiI0C1ykNbVRp5sqjpFt2yJ5LR/DvHQnnfo9s3UVNn3MXpZ3qDbOENT/Zziw/4N3c4J6eucGL3K6x/LeaJTfelgR3RrvxVd5sfoXTwdjk/hshzdRzmh2zzmZWmM3gu61U+Sm0sOkVuCbvlXu61bDpGtV9PjrnTNIVJ6lCRx/h691p/e5fj7eNij2//gNF4NeTJ2ndbmEPFiPokWz4PPQh/m+IXrknEtOkUQHDVyiJzROVKFjtXL0Kv62fuPKRU2x5tWDhHs9nflVDj0iszR6OXAfpJZBw1z5bgcuwVb9GkZbhl81swhUsOCFLpBClSOVDeHCGpSrLWDoPqW6pjVQ41bI/cG62wwOSLtHCKYbclBP8gBEkRpJzKEOdfO9YPcIUFWHWaNw0yJV/0gJSSI+ugrEkOCKO3Wh0JIENU1/IeMQdYw07XM/NjNDL9mJsS7fhDMEsXMotHMMt7MxsrMVtfO4YOZ4yAzB3Rmjky1+xbuENvMtYLuQQrwokf36u0PMIje7TT4MtTO9bTe7A4uGFAr4QjRJRxmimrslDnZKTzT2Cl6UQqoUJz5F53gYWWN0A3d/k/JqvV84U8B86qS8otHJeVdEudv4leRf9e7HJePvj27CBzHLm/GqyErT5O6Ob5dlqP1Yj4fVS/4KKG/z/c66ez9id8PKgMzT1x7TT756Bh6zrCAkWfg/6R1PnLrEOe/62H+f/1fJRRlHGZZGJfFL/2rBCIiIiIiIiIiIiJCegeE1yPSUBT3RwAAAABJRU5ErkJggg==" width="150px" height="100px">
+            <p class="ok">2000грн</p>
+            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARwAAACxCAMAAAAh3/JWAAAADFBMVEX////cFDzup6/bAC47xqeuAAAA0UlEQVR4nO3QMQHAMAzAsLTjz3kI4qO3BEEzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPLms5mM1h5WcICfICXKCnCAnyAlygpwgJ8gJcoKcICfICXKCnCAnyAlygpwgJ8gJcoKcICfICXKCnCAnyAlygpwgJ8gJcoKcICfICXKCnCAnyAlygpwgJ8gJcoKcICfICXKCnCAnyAlygpwgJ8gJcoKcICfICXKCnCAnyAlygpwgJ8gJcoKcICfICXKCnCAnyAlygpwgJ8gJcoKcICf8zMtmEUHJBe8AAAAASUVORK5CYII=" width="150px" height="100px">
+            <p class="ok">2200грн</p>
+            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAFVBMVEX///8AkkbOKzcAjz56uI/ehIjNHy1xf0V9AAAA/klEQVR4nO3QSQ0AIAADsHH6l4yKPUhaCc2oWTs9586aOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHy4ckD5KrN4eD2boIAAAAASUVORK5CYII=" width="150px" height="100px">
+            <p class="ok">1900грн</p>
+            <img src="data:image/png;base64,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" width="150px" height="100px">
+            <p class="ok">3000грн</p>
+            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPoAAACnCAMAAAAPIrEmAAAAD1BMVEUAJlTOESb///+qt8bvsbgJm86HAAAAxElEQVR4nO3PwQ0AIAgEMBT3n5kZTI5fu0Gr8vrGvZO3MFdXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dX/zJOz6WzkAhGGAAAAABJRU5ErkJggg==" width="150px" height="100px">
+            <p class="ok">2500грн</p>
+            </div>
+            </main>
+            <footer>
+            <h2 id="kop">Зв'язок</h2>
+тел. 096 876 12 15
+        </footer>
+    </body>
+</html>
